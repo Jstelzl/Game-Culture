@@ -225,7 +225,7 @@ function Login() {
                     </div>
                     <div>
                         <button
-                            className="bg-blue-900 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded-full flex flex-row mx-auto"
+                            className="bg-green-900 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded-full flex flex-row mx-auto"
                             outline={true}
                         >
                             Sign Up
